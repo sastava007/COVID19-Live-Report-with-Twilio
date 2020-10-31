@@ -1,5 +1,5 @@
 
-# `COVID19 Status Report`
+# COVID19 Status Report
 
   
 
@@ -39,8 +39,6 @@ The app also supports performing self test right on your device
 
 ## Features
 
-  
-
 - Get daily report via SMS.
 
 - Get only reports that concerns you.
@@ -76,8 +74,7 @@ The app also supports performing self test right on your device
 
 **Popup asking for mobile number**
 
-![enter image description here](https://i.imgur.com/IJTVUfe.png)
-
+![enter image description here](https://i.imgur.com/hEmU1v9.png)
 
 **Self Test**
 
